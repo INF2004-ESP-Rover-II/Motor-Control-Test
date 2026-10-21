@@ -1,0 +1,4 @@
+build/
+test/test_motor_control
+*.uf2
+*.elf
